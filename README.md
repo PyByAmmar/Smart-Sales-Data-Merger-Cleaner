@@ -19,5 +19,5 @@ A robust Python tool designed to automate the merging and cleaning of multiple s
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/PyByAmmar/sales-data-merger.git](https://github.com/YOUR_USERNAME/sales-data-merger.git)
-   cd sales-data-merger
+   git clone [https://github.com/PyByAmmar/Smart Sales Data Merger & Cleaner.git](https://github.com/YOUR_USERNAME/sales-data-merger.git)
+   cd sSmart Sales Data Merger & Cleaner
